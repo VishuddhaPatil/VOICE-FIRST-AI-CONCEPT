@@ -1,4 +1,4 @@
-# 🎙️ Voice-First AI Assistant
+# 🎙️ Voice-AI-Prototype
 
 A voice-first, accessibility-focused AI web application designed to help users interact with AI using speech instead of text.
 
